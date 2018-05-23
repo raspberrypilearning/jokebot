@@ -21,11 +21,9 @@ title: What you will need
 * Python 3
 * [`guizero`](https://lawsie.github.io/guizero/) Python module
 
-[[[generic-python-install-python3]]]
+For help installing python: [Installing Python 3](https://projects.raspberrypi.org/en/projects/generic-python-install-python3)
 
-You can use `pip` to install the `guizero` module:
-
-[[[generic-python-installing-with-pip]]]
+You can use `pip` to install the `guizero` module: [Installing python modules with pip](http://projects.raspberrypi.org/en/projects/generic-python-installing-with-pip)
 
 --- /collapse ---
 
