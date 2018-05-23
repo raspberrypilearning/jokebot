@@ -1,9 +1,16 @@
 title: jokebot
 hero_image: images/banner.png
-description: jokebot description
-version: 4
+description: Create a chatbot with a personality that tells jokes
 listed: false
+ingredient: false
 copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: python
+site_areas: projects
+hardware: ''
+software: ''
+version: 4
 last_tested: "2018-05-23"
 steps:
   - title: Introduction
